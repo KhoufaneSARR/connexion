@@ -1,0 +1,79 @@
+.secure{ width: 180px;
+    height: 150px;
+    border:5px solid gray;
+    position:relative;
+     float: left;
+  }
+
+#developer{display: flex;
+	   margin-left: 50em;
+    height: 400px;
+    background :darkblue;
+    top: 100px;
+}
+h2{
+	text-align: center;    
+}
+h4{text-align: center;color: blue;}
+
+#nav{
+	text-align: right;
+	background-color: white;
+  height: 60px;
+  
+    }
+ .body{background :darkblue;
+  display: block;
+
+
+        }
+.ima{
+
+  margin-left: 25em;}
+.form
+{ display: flex;
+ 
+  flex-direction: column;
+  align-items: center;
+  background-color: white;
+  border-radius: 5px;
+  margin-top: -468px;
+  padding: 5px 5px 2px 5px ;
+  text-align: center;
+  width: 400px;
+  height: 500px;
+  margin-left: 6em;
+}
+
+.connexion{
+  background-color: orange; text-align:center;
+  height: 150px;
+  font-size: 20px;
+  color: white;
+  margin-top: -17px;
+}
+#con{
+  text-align:right;
+
+
+}
+
+button[type="submit"]{
+  background: #388fd9;
+  border-radius:10%; 
+  width: 100px;
+  height: 30px;
+
+}
+
+a {text-decoration: none;
+color: white;}
+.a{color: blue;}
+.Lorem{color: black;}
+.facebook,.twitter,.google{width:30px;}
+.souv{text-align: left;}
+.oub{text-align: left;}
+
+
+input[type="email"],input[type="Password"] ,.email,.Password{width: 100%;text-align: left;}
+
